@@ -10,3 +10,4 @@
         print([matrix[i][j] for i in range(n)])
 //ROYAL GUARD
 
+        print([matrix[i][j] for i in range(n)])
